@@ -1,0 +1,19 @@
+#div-styling-01 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#div-styling-02 {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.p-styling {
+    background-color: rgb(210, 82, 121);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.special-styling {
+    font-size: 24px;
+}
